@@ -1,4 +1,4 @@
-name: pythonProject
+name: AD-Baselines
 channels:
   - defaults
 dependencies:
